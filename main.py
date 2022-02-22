@@ -35,4 +35,4 @@ class NiceBot(discord.Client):
 
 #RUN BOT NiceBot
 NiceBot = NiceBot()
-NiceBot.run('OTQzNDgzMzgzMTUyMDAxMDc2.YgztXw.Vr4vUoa1WRZ5GLy5r5DJi8pNtYc')
+NiceBot.run('OTQzNDgzMzgzMTUyMDAxMDc2.YgztXw.UBiki1Pc7RnHYqLrOhK4bvNOQWo')
